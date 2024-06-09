@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [live site](https://thebraudalf.github.io/Contact_Us_Validation/)
+- Live Site URL: [live site](https://contact-us-validation.vercel.app/)
 
 ## My process
 
